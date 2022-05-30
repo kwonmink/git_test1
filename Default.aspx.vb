@@ -110,7 +110,7 @@ Partial Class _Default
         cmd.ExecuteNonQuery()
 
 
-        Label7.Text = "追加完了！"
+        Label7.Text = "追加完了！!!!!"
 
         conn.Close()
 
